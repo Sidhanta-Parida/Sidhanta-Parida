@@ -1,4 +1,3 @@
-![logo](https://github.com/Sidhanta-Parida/first-creative-based/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Sidhanta Parida</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
