@@ -1,3 +1,5 @@
+![log](<img width="2000" height="600" alt="Purple Blue Simple Professional Marketing Professional LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/78008dfa-6909-4c41-97b7-eb5e2b34ed79" />
+)
 <h1 align="center">Hi 👋, I'm Sidhanta Parida</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
